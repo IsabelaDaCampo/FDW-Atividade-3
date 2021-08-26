@@ -1,0 +1,47 @@
+body {
+  background-color: #2d3339;
+}
+
+a {
+  color: #fff !important;
+  text-decoration: none !important;
+}
+
+#icon-image {
+  width: 75px;
+  margin-top: 10px;
+  margin-bottom: 8px;
+}
+
+#profile-title {
+  font-size: 20px;
+  color: #fff;
+  font-weight: bold;
+}
+
+#profile-text {  
+  font-size: 13px;
+  color: #fff;
+}
+
+.post-on-blog {
+  color: #fff;
+}
+
+.list-of-cards {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.card-title{
+  color: #2d3339;
+}
+
+.card-link {
+  color: #6c757d !important;
+}
+
+ol {
+  color: #6c757d;
+}
